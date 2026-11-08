@@ -4,3 +4,5 @@
  <div align="center">
 
 [artfight](https://artfight.net/~fernpaste) ✿ [ata](https://springquilt.atabook.org/) ✿ [straw](https://springquilt.straw.page/)
+
+<img width="120" src="https://komarev.com/ghpvc/?username=springquilt&label=gummy+worms&color=f06992">
